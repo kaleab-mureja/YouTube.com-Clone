@@ -16,7 +16,7 @@ To get a local copy up and running, follow these steps:
 Clone the repository:
 
 Copy code
-git clone https://github.com/kaleab-mureja/youtube-clone.git
+git clone https://github.com/kaleab-mureja/YouTube.com-clone.git
 cd youtube-clone
 Open the project:
 
